@@ -1,6 +1,3 @@
-Thank you for providing the hackathon details! Here's how you can incorporate this information into your README to make it more specific and engaging:
-
----
 
 # Automated Timetable Generator
 
