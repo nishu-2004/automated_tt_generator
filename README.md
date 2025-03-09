@@ -1,10 +1,15 @@
+Thank you for providing the hackathon details! Here's how you can incorporate this information into your README to make it more specific and engaging:
+
+---
+
 # Automated Timetable Generator
 
-![Hackathon Badge](https://img.shields.io/badge/Hackathon-Project-blue)  
-![Python](https://img.shields.io/badge/Python-3.x-green)  
+![Hackathon Badge](https://img.shields.io/badge/Hackathon-wHACKiest_2024-blue)  
+![Python](https://img.shields.io/badge/Python-3.x-green) 
 
-This project is an **Automated Timetable Generator** developed during a hackathon. It is designed to automate the process of creating timetables for educational institutions, organizations, or personal use. The tool uses Python to generate timetables efficiently and avoids scheduling conflicts.
+This project is an **Automated Timetable Generator** developed during **wHACKiest 2024**, a hackathon held at **Ramaiah Institute of Technology (MSRIT)** on **December 18, 2024**. The tool is designed to automate the process of creating timetables for educational institutions, organizations, or personal use. It uses Python to generate timetables efficiently and avoids scheduling conflicts.
 
+---
 
 ## Features
 
@@ -57,6 +62,14 @@ Based on these inputs, the script generates a timetable that satisfies all const
 
 ---
 
+## Hackathon Details
+
+This project was developed as part of **wHACKiest 2024**, a hackathon held at **M S Ramaiah Institute of Technology (MSRIT)** on **December 18, 2024**. The event started at **10:00 AM** and took place at the **ESB Seminar Hall 1**.
+
+The goal of this project was to create a tool that simplifies the process of timetable generation, which is often a tedious and error-prone task. It was an exciting challenge to solve this problem within the hackathon's time constraints!
+
+---
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
@@ -67,14 +80,15 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 ---
 
-## Acknowledgments
+## License
 
-- Thanks to the hackathon organizers for providing the platform.
-- Inspiration from existing timetable generation tools.
-- Contributors and teammates who helped in building this project.
-
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-This README provides a comprehensive overview of your project and makes it easy for others to understand and use your work. You can customize it further based on your specific requirements or additional features you’ve implemented. Good luck with your hackathon project! 🚀
+## Acknowledgments
+
+- Thanks to the organizers of **wHACKiest 2024** for providing the platform and opportunity.
+- Inspiration from existing timetable generation tools.
+- My teammates and mentors who supported me during the hackathon.
+
