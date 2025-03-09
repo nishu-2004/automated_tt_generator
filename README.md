@@ -2,7 +2,6 @@
 
 ![Hackathon Badge](https://img.shields.io/badge/Hackathon-Project-blue)  
 ![Python](https://img.shields.io/badge/Python-3.x-green)  
-![License](https://img.shields.io/badge/License-MIT-orange)
 
 This project is an **Automated Timetable Generator** developed during a hackathon. It is designed to automate the process of creating timetables for educational institutions, organizations, or personal use. The tool uses Python to generate timetables efficiently and avoids scheduling conflicts.
 
